@@ -103,6 +103,7 @@ Contributing
 
 * vim:ts=4:sw=4:expandtab:ff=unix:encoding=utf8
 * Please create your pull request on `develop` branch
+* ipcjs
 
 License
 ---
